@@ -59,3 +59,14 @@
 //     alert(`現在是 ${(format)} ${currentHours} 時 ${currentMinutes}分 ${currentSeconds}秒`);
 // }
 //   time();
+
+
+// 迴圈for
+// for (let i=1; i<=10;i=i+1){document.write(i+"<br>");}
+
+
+// 還沒好
+let sum=0;
+for (let i=1; i<=100; i=i+1){sum=sum+i;}
+
+
