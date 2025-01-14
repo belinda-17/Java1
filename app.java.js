@@ -66,7 +66,59 @@
 
 
 // 還沒好
-let sum=0;
-for (let i=1; i<=100; i=i+1){sum=sum+i;}
+// let sum=0;
+// for (let i=1; i<=100; i=i+1){sum=sum+i;}
+
+//do while
+// let myPassword="";
+// let answer="12345"
+// do{myPassword=prompt("請輸入密碼")}while(myPassword !== answer);
+// alert("密碼正確")
+
+//猜數字遊戲 R()
+// let ans= Math.random()*10
+// ans=Math.floor(ans);
+// let guess=0;
+// while(true){guess=prompt("傾輸入0-9");
+// if (guess==ans){alert("恭喜答對了")
+//     break;}
+// alert("再給你一次機會")}
+
+//陣列
+// var num=[12,13,14,15,16];
+// console.log(num);
+//
+// num.push(17);
+// console.log(num);
+//
+// num.shift()
+// console.log(num)
+//
+// num.unshift(11)
+// console.log(num)
+//
+// num.pop()
+// console.log(num)
+
+//foreach
+// let myArray=[1,4,2,3,5,8];
+// let max= getMax(myArray);
+// console.log(max);
+//
+// function getMax(arr){
+//     let max=Number.MIN_SAFE_INTEGER;
+//     arr.forEach(v=>{if(v>max){max=v;}})
+// return max;}
+
+//DOM
+// var d1=document.getElementById('{d1}');
+// d1.classList.add('red');
+
+//addEventLinster 還沒
+// var d1=document.getElementById('d1');
+// var d2=document.getElementById('d2');
+// d1.addEventListener('click',function (){console.log('onD1Click')});
+// d2.addEventListener()
+
 
 
